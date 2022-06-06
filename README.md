@@ -1,2 +1,2 @@
 # golang-go
-golang/minggu1
+menambah file boolean.go/minggu1
